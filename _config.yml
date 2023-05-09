@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TITLE"
+title                    : "Jinchao Huang"
 title_separator          : "-"
 name                     : &name "Jinchao Huang"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "JasonHuang_2001"
 facebook:
   username               :
   app_id                 :
@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D. student at Database Group, the Chinese University of Hong Kong"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            :
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://scholar.google.com/this-is-a-test" #TODO
+  email            : "jchuang@se.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "JasonHuang_2001"
   vine             :
   weibo            :
   xing             :
